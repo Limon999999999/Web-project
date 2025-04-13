@@ -83,19 +83,19 @@ img{
     justify-content: space-around;
 }
 .types-of-guitar{
-    background-image: url(/Веб-сайт/img/types.jpg);
+    background-image: url(../Веб-сайт/img/types.jpg);
     width: 400px;
     height: 500px;
     border-radius: 15px;
 }
 .guitar-shapes{
-    background-image: url(/Веб-сайт/img/22.jpg);
+    background-image: url(../Веб-сайт/img/22.jpg);
     width: 400px;
     height: 500px;
     border-radius:15px;
 }
 .pickups{
-    background-image: url(/Веб-сайт/img/33.jpg);
+    background-image: url(../Веб-сайт/img/33.jpg);
     width: 400px;
     height: 500px;
     border-radius: 15px;
