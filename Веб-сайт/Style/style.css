@@ -95,7 +95,7 @@ img{
     flex-direction: column;
 }
 .about-Guitar{
-    background-image: url(./Веб-сайт/img/о\ гитарах\ 2.jpg);
+    background-color:red();
     border-radius: 10px;
     position: absolute;
     width: 457px;
