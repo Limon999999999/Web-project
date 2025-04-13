@@ -81,7 +81,7 @@ img{
     margin-right: 0;
 }
 .processors-and-effects-pedals{
-    background-image: url(./Веб-сайт/img/На\ главную.jpg);
+    background-image: url(../Веб-сайт/img/На\ главную.jpg);
     border-radius: 10px;
     position: absolute;
     width: 705px;
@@ -95,7 +95,7 @@ img{
     flex-direction: column;
 }
 .about-Guitar{
-    background-image: url(./Веб-сайт/img/о\ гитарах\ 2.jpg);
+    background-image: url(../Веб-сайт/img/о\ гитарах\ 2.jpg);
     border-radius: 10px;
     position: absolute;
     width: 457px;
@@ -114,7 +114,7 @@ img{
 }
 
 .combo-amplifiers{
-    background-image: url(./Веб-сайт/img/комб.jpg);
+    background-image: url(../Веб-сайт/img/комб.jpg);
     border-radius: 10px;
     position: absolute;
     width: 705px;
@@ -125,7 +125,7 @@ img{
     bottom: 429px;
 }
 .guitarists-and-assemblies{
-    background-image: url(./Веб-сайт/img/10.3.jpg);
+    background-image: url(../Веб-сайт/img/10.3.jpg);
     border-radius: 10px;
     position: absolute;
     width: 1184px;
